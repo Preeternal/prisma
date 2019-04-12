@@ -15,7 +15,7 @@ services:
             connector: postgres
             host: ec2-54-247-70-127.eu-west-1.compute.amazonaws.com
             database: deicie5j2nb45n
-            schema: default$default
+            # schema: default$default
             user: cvvnbvbyqxhqyy
             password: 1ff3fc74a4be8ba39a4f6a84784463dc985ed60fbe52a194427771c6d9f6e2a1
             ssl: true
